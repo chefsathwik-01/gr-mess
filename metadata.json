@@ -1,5 +1,7 @@
 {
-  "name": "Copy of G R Mess - Authentic South Indian Dining",
-  "description": "A premium React-based web application for Shimoga's favorite home-style South Indian mess, featuring interactive menus, subscription plans, and an AI dining assistant.",
-  "requestFramePermissions": []
+  "name": "G R Mess — Authentic South Indian Dining",
+  "description": "Premium dining experience for Shimoga's favorite home-style mess, featuring real-time AI assistance, dynamic menus, and live IST status tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
 }
